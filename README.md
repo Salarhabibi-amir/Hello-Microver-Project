@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+
+
+
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -23,6 +27,10 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 
+
+<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
+
+
 <details>
   <summary>Client</summary>
   <ul>
@@ -37,9 +45,16 @@
 
 
 
+
+<!-- > Mention all of the collaborators of this project. -->
+
+
 👤 **Amir Hussain Habibi**
 
 - GitHub: [@gitAmir](https://github.com/Salarhabibi-amir)
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
